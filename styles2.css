@@ -23,12 +23,19 @@ div.slidy_toc {
   color: #48C9B0; 
 }
 
-td,th { 
+td { 
 	padding: 0.2em;
 	background: #48C9B0;
 	color: #101010;
  }
 
+
+th {
+	padding: 0.2em;
+	background: #35b19e;
+	color: #101010;
+}
+	
 a:link {
   color: #48C9B0;
 }
@@ -58,7 +65,7 @@ img {
   .table { 
     border-spacing: 1px;
     font-size: 26px;
-    width: 50%;
+    width: 40%;
     line-height: 19px;
     margin: auto;
     padding: 15px;
