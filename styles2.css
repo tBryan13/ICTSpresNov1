@@ -25,7 +25,11 @@ img {
   max-width: 70%;
 }
 
- 
+ div.slide.titlepage h1 {
+  padding-top: 10%;
+  margin-right: 0;
+  font-size: 84px;
+}
 
 
 .caption {
