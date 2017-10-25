@@ -23,6 +23,11 @@ div.slidy_toc {
   color: #48C9B0; 
 }
 
+td,th { 
+	padding: 0.2em;
+	background: white;
+ }
+
 a:link {
   color: #48C9B0;
 }
