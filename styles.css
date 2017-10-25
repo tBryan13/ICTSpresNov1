@@ -15,11 +15,20 @@ img {
 }
 
  
- figure {
+.figure {
 	margin: 5px;
 	height: 85%;
 	width: 85%;
 	}
+
+.caption {
+	font-family: "Open Sans";
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
 
   table { 
     border-spacing: 0px;
