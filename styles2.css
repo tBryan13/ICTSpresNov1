@@ -16,10 +16,11 @@ html *
 
 div.slidy_toc {
  
-  background: #9d9d9e;
+  background: #1e1e1e;
   border-style: solid;
   border-width: 0px;
   font-size: 80%;
+  color: #48C9B0; 
 }
 
 a:link {
