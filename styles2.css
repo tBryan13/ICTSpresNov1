@@ -48,10 +48,10 @@ img {
 
 h1 {
 	font-size: 40px;
-	font-style: italic;
+	font-style: normal;
 	font-variant: normal;
 	font-weight: 500;
-	line-height: 38px;
+	line-height: 44px;
 }
 h3 {
 	font-size: 24px;
