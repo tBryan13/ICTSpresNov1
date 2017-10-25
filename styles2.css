@@ -37,8 +37,7 @@ img {
 }
 
   table { 
-    border-spacing: 0px;
-    border-collapse: collapse;
+    border-spacing: 6px;
     font-size: 26px;
     width: auto;
     line-height: 19px;
