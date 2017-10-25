@@ -1,5 +1,9 @@
 @import:'https://fonts.googleapis.com/css?family=Fira+Sans+Extra+Condensed&latin';
 
+title {
+	font-size: 72px;
+	}
+
 html, body {
   background-color: #5d5d5e;
   color: #fff;
