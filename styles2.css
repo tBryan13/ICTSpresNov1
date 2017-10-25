@@ -1,14 +1,13 @@
-@import:'https://fonts.googleapis.com/css?family=Fira+Sans+Extra+Condensed';
+@import:'https://fonts.googleapis.com/css?family=Fira+Sans+Extra+Condensed&latin';
 
 html, body {
   background-color: #5d5d5e;
   color: #fff;
-  font-family: "Fira Sans Extra Condensed";
 }
 
 html *
 {
-   font-family: "Fira Sans Extra Condensed", sans-serif;
+   font-family: 'Fira Sans Extra Condensed', sans-serif;
 }
 
 a:link {
