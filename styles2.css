@@ -52,14 +52,14 @@ div.slidy_toc {
 }
 
 td { 
-	padding: 0em;
+	padding: 0.2em;
 	color: #333333;
 	border-width: 0px;
  }
 
 
 th {
-	padding: 0em;
+	padding: 0.2em;
 	background: #35b19e;
 	color: #333333;
         border-width: 0px;
@@ -102,7 +102,7 @@ img {
 }
 
   .table { 
-    border-spacing: 1px;
+    border-spacing: 0px;
     font-size: 26px;
     width: 40%;
     line-height: 19px;
