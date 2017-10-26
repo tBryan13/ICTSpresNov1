@@ -17,9 +17,9 @@ html *
 	
 }
 
-ul
+ul, ol
 {
-  
+  margin-left: 50px;
   padding: 0 0 0 0;
 
  
