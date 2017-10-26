@@ -53,7 +53,7 @@ div.slidy_toc {
 
 td { 
 	padding: 0.2em;
-	color: #737373;
+	color: #333333;
 	border-width: 0px;
  }
 
@@ -61,12 +61,19 @@ td {
 th {
 	padding: 0.2em;
 	background: #35b19e;
-	color: #737373;
+	color: #333333;
         border-width: 0px;
 }
 
-tr:nth-child(even) {background: #9de2d4}
-tr:nth-child(odd) {background: #d8f3ee}
+tr:nth-child(even) {
+	background: #9de2d4;
+	 border-width: 0px;
+}
+
+tr:nth-child(odd) {
+	background: #d8f3ee;
+	 border-width: 0px;
+}
 	
 a:link {
   color: #48C9B0;
