@@ -53,7 +53,6 @@ div.slidy_toc {
 
 td { 
 	padding: 0.2em;
-	background: #48C9B0;
 	color: #101010;
  }
 
@@ -63,6 +62,9 @@ th {
 	background: #35b19e;
 	color: #101010;
 }
+
+tr:nth-child(even) {background: #48C9B0}
+tr:nth-child(odd) {background: #d8f3ee}
 	
 a:link {
   color: #48C9B0;
