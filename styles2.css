@@ -54,7 +54,7 @@ div.slidy_toc {
 td { 
 	padding: 0.2em;
 	color: #737373;
-	border-color: white;
+	border-width: 0px;
  }
 
 
@@ -62,6 +62,7 @@ th {
 	padding: 0.2em;
 	background: #35b19e;
 	color: #737373;
+        border-width: 0px;
 }
 
 tr:nth-child(even) {background: #9de2d4}
