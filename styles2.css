@@ -14,6 +14,22 @@ html *
    font-family: 'Fira Sans Extra Condensed', sans-serif;
 }
 
+div.slide h1 {
+  padding-left: 0;
+  padding-right: 0pt;
+  padding-top: 4pt;
+  padding-bottom: 4pt;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 5pt;
+  margin-bottom: 0.5em;
+  display: block; 
+  font-size: 160%;
+  line-height: 1.2em;
+
+}
+
+
 div.slidy_toc {
  
   background: #101010;
