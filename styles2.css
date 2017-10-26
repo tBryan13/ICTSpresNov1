@@ -63,7 +63,7 @@ th {
 	color: #101010;
 }
 
-tr:nth-child(even) {background: #48C9B0}
+tr:nth-child(even) {background: #9de2d4}
 tr:nth-child(odd) {background: #d8f3ee}
 	
 a:link {
